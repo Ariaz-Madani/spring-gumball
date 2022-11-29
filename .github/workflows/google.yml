@@ -21,7 +21,7 @@ env:
   GKE_CLUSTER: cmpe172    
   GKE_ZONE: us-central1-c  
   DEPLOYMENT_NAME: spring-gumball 
-  IMAGE: ariaz2699/spring-gumball
+  IMAGE: ariaz2699/spring-gumball:v0.0.1-SNAPSHOT	
 
 jobs:
   setup-build-publish-deploy:
