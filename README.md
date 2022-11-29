@@ -33,6 +33,33 @@ After running on a local machine, we were to configure the application to run on
 
 
 
-**JSON Key created:**
+**JSON Key Created:**
 <img width="1792" alt="Lab10 CD JSON Key created" src="https://user-images.githubusercontent.com/61758287/204452584-22c7b8d9-53d4-434a-a96b-f1e25c7abda7.png">
+
+
+
+**Creating GitHub Secrets:**
+<img width="1792" alt="Lab10 GKE Secret Created" src="https://user-images.githubusercontent.com/61758287/204459087-68a548c9-00d2-47fc-9e90-07e0b92bf24b.png">
+
+
+<img width="1792" alt="Lab10 GKE Key Secret Created" src="https://user-images.githubusercontent.com/61758287/204459097-f270c931-b54a-4583-8eb6-8f10445437bd.png">
+
+
+
+**Overview of GitHub Secrets Page:**
+<img width="1792" alt="Lab10 Created Secrets Overview" src="https://user-images.githubusercontent.com/61758287/204459175-2621002a-e68a-489b-b26c-fae81bdd23b9.png">
+
+
+
+**CD Pipeline Release Test:**
+<img width="1792" alt="Lab10 Release Published" src="https://user-images.githubusercontent.com/61758287/204459308-6ba987a8-6e80-4093-8540-9f0b905c42c9.png">
+
+
+
+**Release Details:**
+<img width="1792" alt="Lab10 Release Details" src="https://user-images.githubusercontent.com/61758287/204459367-6ad9081a-b8ce-4313-806c-dceba05f1ad2.png">
+
+
+
+
 
