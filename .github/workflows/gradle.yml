@@ -48,7 +48,7 @@ jobs:
     # You can upload the contents of that directory using the upload-artifact action.
     # See: https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v3.2.3
+      uses: actions/upload-artifact@v2.2.3
       with:
         name: spring-gumball
         path: build/libs/spring-gumball-2.0.jar
